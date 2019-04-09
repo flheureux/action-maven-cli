@@ -1,6 +1,6 @@
 FROM maven:3.6.0-jdk-12-alpine
 
-LABEL "name"="Maven CLI Action"
+LABEL "name"="Maven CLI Action with JDK 12"
 LABEL "maintainer"="Fabien LHEUREUX"
 LABEL "version"="1.0.1"
 
